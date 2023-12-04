@@ -2,7 +2,7 @@
 
 How to use JarInstall: 
 
-Step 1: Move JarInstall to the desktop and download your Mod Loader (Forge, Fabric, ETC) and move that to your desktop as well. Name the .jar file you downloaded 1.jar and move it to your desktop.
+Step 1: Move JarInstall to the desktop and download your Mod Loader (Forge, Fabric, ETC) and move that to your desktop as well. Name the .jar file you downloaded to "1.jar" and move it to your desktop.
 
 Step 2: Make sure you have an ARM64 or M.X chipset in your Mac (you can check by clicking the apple logo on the top left of your screen and click “About This Mac”)
 
