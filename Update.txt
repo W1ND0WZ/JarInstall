@@ -1,0 +1,7 @@
+Update 1.3:
+- Added a fix to the app not launching on ARM64 Macs.
+- Added more prompts to tell users what to do in more detail.
+- Added a Finished Prompt.
+- added ||exit to the code instead of || exit, since it just quits the app.
+
+More updates coming soon!
