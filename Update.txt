@@ -4,4 +4,11 @@ Update 1.3:
 - Added a Finished Prompt.
 - added ||exit to the code instead of || exit, since it just quits the app.
 
+Update 2.0: The Biggest Update And Optimization Yet!
+- Most code was rewritten to fit in an IF/ELSE statement.
+- Reworked functions: JarInstall now REQUIRES the user to put it on the Desktop for one main reason: The program broke when trying to find the java binary when the “1.jar” or        “JarInstall” files were in different directories.
+- Faster code execution: (read line 1) Code length was also decreased with the help of Google’s new AI. (As of making this update)
+- I will be able to add more good features in the future, since I remembered that VS Code exists.
+- Update 2.0 was an overall great update and I will try to update JarInstall soon, but as of right now I am going to slow down with the updates and work more on Optimization.
+
 More updates coming soon!
