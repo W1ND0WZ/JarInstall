@@ -1,4 +1,4 @@
-# JarInstall
+# JarInstall - MacOS
 
 How to use JarInstall: 
 
