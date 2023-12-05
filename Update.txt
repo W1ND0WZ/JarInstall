@@ -11,4 +11,13 @@ Update 2.0: The Biggest Update And Optimization Yet!
 - I will be able to add more good features in the future, since I remembered that VS Code exists.
 - Update 2.0 was an overall great update and I will try to update JarInstall soon, but as of right now I am going to slow down with the updates and work more on Optimization.
 
+Update 2.1 - Whoops!
+Issue last update: I left my directory in the code so it didn’t work on other computers… Whoops.
+----------------------------------------------------------------------------------------------------
+- Most code was rewritten to fit in 2 IF/ELSE statements.
+- Reworked functions: JarInstall now no longer moves the “1.jar“ file from the Desktop to the java binary. You can also choose whether or not to delete the 1.jar file from the desktop now.
+- Faster code execution: Code length was increased with the benefit of almost instant execution.
+- JarInstall now uses variables to see what you picked. May allow for more choices in the future. Below is the code snippet:
+if [ "$result" = "button returned:Yes" ]; then
+- Update 2.1 was an overall great update and I will try to update JarInstall soon, but as of right now I am going to slow down with the updates and work more on Optimization. (Nah jk this was in the last update but I’m not slowing down!)
 More updates coming soon!
